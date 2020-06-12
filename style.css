@@ -1,0 +1,71 @@
+/* 这个css文件中只有样式没有标签 */
+
+body {
+    font: 16px/28px 'Microsoft yahei';
+}
+
+h1 {
+    text-align: center;
+}
+
+.grey {
+    color: grey;
+    font-size: 12px;
+    text-align: center;
+}
+
+.title1 {
+    background-color: darkblue;
+    color: white;
+    font-size: 17px;
+}
+
+.title2 {
+    color: grey;
+    font-size: 17px;
+}
+
+.title-span2 {
+    /* display: block; */
+    /* float: center; */
+    margin: 18px;
+    text-align: center;
+}
+
+.title-span1 {
+    /* display: block; */
+    /* float: center; */
+    margin: 18px;
+    text-align: center;
+}
+
+.title-span {
+    /* display: block; */
+    /* float: center; */
+    margin: 38px;
+    text-align: center;
+}
+
+.sub-title {
+    color: grey;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-indent: 2em;
+}
+
+.pic {
+    /* 想要图片水平居中对齐，则是让他的父亲p标签添加水平居中的代码 */
+    text-align: center;
+}
+
+.tip {
+    color: grey;
+    font-size: 12px;
+    text-align: center;
+}
